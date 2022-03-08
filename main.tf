@@ -1,4 +1,4 @@
-provider "azurerm"{
-version = "2.2.0"
-    
+provider "azurerm" {
+version = "2.91.0"
+features {}    
 }
